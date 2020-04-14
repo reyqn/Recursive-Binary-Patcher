@@ -2,7 +2,7 @@
 basic utility to patch directories using xdelta3
 
 Usage:
-
+First you must download an xdelta3 binary, name it xdelta3.exe and put it in the working directory
 
 patch sourceDir targetDir
 
